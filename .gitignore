@@ -1,0 +1,10 @@
+# Dependencies (installed with npm install)
+node_modules/
+
+# Electron build output (published as GitHub release assets instead)
+out/
+*.zip
+
+# Local tool state
+.claude/
+.playwright-mcp/

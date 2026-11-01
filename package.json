@@ -1,0 +1,38 @@
+{
+  "name": "dormitory-after-hours",
+  "productName": "Dormitory After Hours",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2D pixel-art exploration game set in a university dormitory at night",
+  "author": "steam",
+  "type": "module",
+  "main": "electron-main.cjs",
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node tests/validate-world.mjs",
+    "app": "electron-forge start",
+    "package": "electron-forge package"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "name": "Dormitory After Hours",
+        "executableName": "DormitoryAfterHours",
+        "asar": true,
+        "ignore": [
+          "^/node_modules($|/)",
+          "^/fonts/.*\\.zip$",
+          "^/tests($|/)",
+          "^/out($|/)",
+          "^/\\.claude($|/)",
+          "^/serve\\.mjs$",
+          "^/README\\.md$"
+        ]
+      }
+    }
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^8.0.1",
+    "electron": "^45.2.1"
+  }
+}
