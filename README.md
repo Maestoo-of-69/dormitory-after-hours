@@ -1,5 +1,12 @@
 # Dormitory: After Hours
 
+## ▶️ Играть в браузере
+
+### [**maestoo-of-69.github.io/dormitory-after-hours**](https://maestoo-of-69.github.io/dormitory-after-hours/)
+
+Ничего скачивать не нужно — откройте ссылку на компьютере с клавиатурой (Chrome, Edge, Firefox).
+Прогресс сохраняется в этом браузере.
+
 ## ⬇️ Скачать игру (Windows)
 
 ### [**Скачать Dormitory-After-Hours-Windows-x64.zip**](https://github.com/Maestoo-of-69/dormitory-after-hours/releases/latest/download/Dormitory-After-Hours-Windows-x64.zip) (≈150 МБ)
