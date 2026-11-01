@@ -1,11 +1,28 @@
 # Dormitory: After Hours
 
+## ⬇️ Скачать игру (Windows)
+
+### [**Скачать Dormitory-After-Hours-Windows-x64.zip**](https://github.com/Maestoo-of-69/dormitory-after-hours/releases/latest/download/Dormitory-After-Hours-Windows-x64.zip) (≈150 МБ)
+
+1. Скачайте архив по ссылке выше.
+2. Распакуйте его (правой кнопкой → «Извлечь всё»).
+3. Откройте папку `Dormitory After Hours` и запустите **`DormitoryAfterHours.exe`**.
+
+Установка не нужна. Если Windows покажет «Windows защитила ваш компьютер» —
+нажмите «Подробнее» → «Выполнить в любом случае» (у игры нет платной подписи).
+
+> ⚠️ Зелёная кнопка **Code → Download ZIP** скачивает исходный код, а не игру —
+> двойным кликом он не запустится. Для игры используйте ссылку выше
+> или раздел [Releases](https://github.com/Maestoo-of-69/dormitory-after-hours/releases/latest).
+
+**Управление:** WASD — ходить · SHIFT — быстрее · E — взаимодействовать · SPACE — диалог ·
+TAB — сменить героя · I — находки · ESC — пауза · M — музыка · F — полный экран.
+
+---
+
 2D pixel-art exploration game. Two students, Vlad and Angelina, explore a
 university dormitory at night, find 15 secrets and uncover a time capsule
 left by the class of 2006. Dialogue is in Russian.
-
-**Download for Windows:** [latest release](https://github.com/Maestoo-of-69/dormitory-after-hours/releases/latest) —
-unzip and run `DormitoryAfterHours.exe`.
 
 No dependencies, no build step: plain JavaScript ES modules + HTML5 Canvas.
 All graphics and sound are generated in code (no image/audio files).
