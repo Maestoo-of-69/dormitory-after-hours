@@ -36,6 +36,9 @@ All graphics and sound are generated in code (no image/audio files).
 
 ## Run
 
+Requirements: [Node.js](https://nodejs.org/) (developed with Node 24). The
+browser game needs no `npm install`.
+
 ```bash
 node serve.mjs
 ```

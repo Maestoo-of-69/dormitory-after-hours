@@ -1,5 +1,6 @@
 # Dependencies (installed with npm install)
 node_modules/
+npm-debug.log*
 
 # Electron build output (published as GitHub release assets instead)
 out/
@@ -8,3 +9,9 @@ out/
 # Local tool state
 .claude/
 .playwright-mcp/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
